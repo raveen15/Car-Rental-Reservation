@@ -1,6 +1,6 @@
-## ROS Luxury Car Rentals
+# ROS Luxury Car Rentals
 
-# Steps on Running the Application
+## Steps on Running the Application
 
 1. In order to run this project on your Windows PC, a local server must be installed and linked to a MySQL Workbench.
 2. After doing so, implement the tables that are given in the database table folder.
@@ -11,4 +11,4 @@
 7. Enter your credentials, and you will be taken to the login page for confirmation.
 8. After logging in successfully, you will be taken to the home page.
 
-# Feedback.JSON file is located under the 'forms' folder
+### Feedback.JSON file is located under the 'forms' folder
