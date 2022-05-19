@@ -1,4 +1,4 @@
-ROS Luxury Car Rentals
+# ROS Luxury Car Rentals
 In order to run this project on your Windows PC, a local server must be installed and linked to a MySQL Workbench.
 After doing so, implement the tables that are given in the database table folder.
 Afterthat, make sure that the localhost server/port number, username, password matches with your database connection to all the php files.
